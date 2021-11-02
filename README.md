@@ -1,2 +1,3 @@
 # simao_ifc
-Trabalhos de faculdade 
+Aqui  vou publicar alguns exercicios de  programção. A intenção é  aprender a usar o github.
+
